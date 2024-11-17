@@ -10,6 +10,7 @@ public class Task1_WordLenghts {
                     System.out.print(word.length() + " ");
                 }
                 line = reader.readLine();
+
             }
         } catch (IOException e) {
             System.out.println(e.getMessage());
