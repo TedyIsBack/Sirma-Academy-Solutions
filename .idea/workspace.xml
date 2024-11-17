@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17a869cf-506e-487f-ac50-4c2ae9d68742" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_StreamsAndFiles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extracted_files/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extracted_files/text2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10_CopyFileContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task11_SerializeDesirializeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task12_SerializeCustomObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task13_ExtractSpecificFilesFromZip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_WordLenghts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2_CharacterFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3_ReplaceWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4_CountLinesWordChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5_ExtractFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task6_ReverseLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task7_CountUniqueWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task8_MergeLinesFromTwoFiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task9_CalcDirectorySize.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TedyIsBack"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TedyIsBack/Sirma-Academy-Solutions.git",
+    "accountId": "d296bcbe-a5fe-4a38-aab9-1db5260d3b03"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2oqZ4seFGPJJyOJoJKv5i7yOmQe" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharacterFrequency.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Task10_CopyFileContent.executor": "Run",
+    "Application.Task11_SerializeDesirializeMap.executor": "Run",
+    "Application.Task12_SerializeCustomObject.executor": "Run",
+    "Application.Task13_ExtractSpecificFilesFromZip.executor": "Run",
+    "Application.Task1_WordLenghts.executor": "Run",
+    "Application.Task3_ReplaceWord.executor": "Run",
+    "Application.Task4_CountLinesWordChars.executor": "Run",
+    "Application.Task5_ExtractFile.executor": "Run",
+    "Application.Task6_ReverseLines.executor": "Run",
+    "Application.Task7_CountUniqueWords.executor": "Run",
+    "Application.Task8_MergeLinesFromTwoFiles.executor": "Run",
+    "Application.Task9_CalcDirectorySize.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HW_StreamsAndFiles" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a869cf-506e-487f-ac50-4c2ae9d68742" name="Changes" comment="" />
+      <created>1731598882019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731598882019</updated>
+      <workItem from="1731598883474" duration="13912000" />
+      <workItem from="1731797206926" duration="1981000" />
+      <workItem from="1731799266810" duration="10000" />
+      <workItem from="1731801794849" duration="1503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task9_CalcDirectorySize.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
