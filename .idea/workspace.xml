@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17a869cf-506e-487f-ac50-4c2ae9d68742" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_StreamsAndFiles.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted_files/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted_files/text2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/person.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task10_CopyFileContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task11_SerializeDesirializeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task12_SerializeCustomObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task13_ExtractSpecificFilesFromZip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1_WordLenghts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2_CharacterFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3_ReplaceWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4_CountLinesWordChars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task5_ExtractFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task6_ReverseLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task7_CountUniqueWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task8_MergeLinesFromTwoFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task9_CalcDirectorySize.java" beforeDir="false" />
-    </list>
+    <list default="true" id="17a869cf-506e-487f-ac50-4c2ae9d68742" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +94,7 @@
       <workItem from="1731598883474" duration="13912000" />
       <workItem from="1731797206926" duration="1981000" />
       <workItem from="1731799266810" duration="10000" />
-      <workItem from="1731801794849" duration="1503000" />
+      <workItem from="1731801794849" duration="1668000" />
     </task>
     <servers />
   </component>
