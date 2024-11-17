@@ -1,0 +1,2 @@
+Copy text from here (input.txt)
+It's working :D

@@ -1,0 +1,4 @@
+Line 2 from file 2
+Line 4 from file 2
+Line 6 from file 2
+Line 7 from file 2
